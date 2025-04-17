@@ -1,0 +1,130 @@
+{
+    "birth": [
+        {
+            "vaccine": "Antigen",
+            "disease": "the most active part of the vaccine",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "Adjuvant",
+            "disease": "chemicals which  enhance the immune response of the antigen",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "Preservatives",
+            "disease": "prevent germs from growing in the vaccine vial e.g., Thiomersal",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "Stabilizers",
+            "disease": "chemicals which maintain the potency of the vaccine during the",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "Surfactants",
+            "disease": "chemicals which prevent the vaccine particles from sticking to each other",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "Residuals",
+            "disease": "chemicals which are left over after the final purification process, including",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "What are the types of vaccines",
+            "disease": "Vaccines are made using several processes. They may contain",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "The various phases of vaccine development are",
+            "disease": "1. Exploratory Phase: in this phase, scientists study to find out which part of the",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "Pre-Clinical Phase",
+            "disease": "In this phase, the vaccine candidate is tested in laboratory animals",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        }
+    ],
+    "14 weeks": [
+        {
+            "vaccine": "Bright Futures",
+            "disease": "Routine Immunization is the way forward",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "Ensuring a Healthy Start",
+            "disease": "Routine Immunization for every child",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "Immunization for everyone",
+            "disease": "From New born to Old age",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "Immunizations",
+            "disease": "The best investment for a child's health My choices",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "o Government",
+            "disease": "The Govt. of India should expedite the introduction of HPV",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "o Parents",
+            "disease": "Every child should be immunized with the NIP vaccines. The",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "o Vaccine makers",
+            "disease": "The need of the hour is research and development of vaccines",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "o Other Stakeholders",
+            "disease": "Continued support for the development, licensure and",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "IAP CURRENT ACTIONS/PROGRAM/MISSION MODE",
+            "disease": "The IAP is committed to",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        }
+    ],
+    "2 years": [
+        {
+            "vaccine": "3    Phase I",
+            "disease": "The vaccine is studied in a small group of 20-50 adults.",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "4     Phase 2",
+            "disease": "The vaccine is tested in a few hundred people. In this phase, the",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "5    Phase 3",
+            "disease": "Vaccines which have completed phase 2 trial successfully, enter the phase 3",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "6 Phase 4",
+            "disease": "phase 4 trials are conducted after the vaccine has been introduced in the",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        }
+    ],
+    "5 years": [
+        {
+            "vaccine": "two schedules are followed",
+            "disease": "the National Immunization Program (NIP) schedule and",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        },
+        {
+            "vaccine": "attenuated (or weakened) vaccines are theoretically capable of causing illness",
+            "disease": "because they can still replicate (though not well), mutation is possible, which can lead",
+            "schedule": "NIP or IAP (unsure from raw text)"
+        }
+    ]
+}
